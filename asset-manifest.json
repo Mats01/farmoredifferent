@@ -1,29 +1,23 @@
 {
   "files": {
-    "main.css": "/farmoredifferent/static/css/main.ba2aa709.chunk.css",
-    "main.js": "/farmoredifferent/static/js/main.37d7c2e2.chunk.js",
-    "main.js.map": "/farmoredifferent/static/js/main.37d7c2e2.chunk.js.map",
-    "runtime-main.js": "/farmoredifferent/static/js/runtime-main.61fb7ada.js",
-    "runtime-main.js.map": "/farmoredifferent/static/js/runtime-main.61fb7ada.js.map",
-    "static/js/2.e6c1d514.chunk.js": "/farmoredifferent/static/js/2.e6c1d514.chunk.js",
-    "static/js/2.e6c1d514.chunk.js.map": "/farmoredifferent/static/js/2.e6c1d514.chunk.js.map",
-    "static/js/3.02b17a59.chunk.js": "/farmoredifferent/static/js/3.02b17a59.chunk.js",
-    "static/js/3.02b17a59.chunk.js.map": "/farmoredifferent/static/js/3.02b17a59.chunk.js.map",
+    "main.css": "/farmoredifferent/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/farmoredifferent/static/js/main.dd2adc10.chunk.js",
+    "main.js.map": "/farmoredifferent/static/js/main.dd2adc10.chunk.js.map",
+    "runtime-main.js": "/farmoredifferent/static/js/runtime-main.e7943fe1.js",
+    "runtime-main.js.map": "/farmoredifferent/static/js/runtime-main.e7943fe1.js.map",
+    "static/js/2.fe3e3785.chunk.js": "/farmoredifferent/static/js/2.fe3e3785.chunk.js",
+    "static/js/2.fe3e3785.chunk.js.map": "/farmoredifferent/static/js/2.fe3e3785.chunk.js.map",
+    "static/js/3.ed170c14.chunk.js": "/farmoredifferent/static/js/3.ed170c14.chunk.js",
+    "static/js/3.ed170c14.chunk.js.map": "/farmoredifferent/static/js/3.ed170c14.chunk.js.map",
     "index.html": "/farmoredifferent/index.html",
-    "static/css/main.ba2aa709.chunk.css.map": "/farmoredifferent/static/css/main.ba2aa709.chunk.css.map",
-    "static/js/2.e6c1d514.chunk.js.LICENSE.txt": "/farmoredifferent/static/js/2.e6c1d514.chunk.js.LICENSE.txt",
-    "static/media/Dayty_Phase_0_Starting_a_Django_project.0a4aa48d.md": "/farmoredifferent/static/media/Dayty_Phase_0_Starting_a_Django_project.0a4aa48d.md",
-    "static/media/Dayty_Phase_1.60c9b566.md": "/farmoredifferent/static/media/Dayty_Phase_1.60c9b566.md",
-    "static/media/Developer_Journal_Making_the_Dayty_App.d853bace.md": "/farmoredifferent/static/media/Developer_Journal_Making_the_Dayty_App.d853bace.md",
-    "static/media/My_2015_summer_project.f742634d.md": "/farmoredifferent/static/media/My_2015_summer_project.f742634d.md",
-    "static/media/Reversed_Citations_Needed_app.53d170ff.md": "/farmoredifferent/static/media/Reversed_Citations_Needed_app.53d170ff.md",
-    "static/media/portrait_2020.a2dece7e.jpg": "/farmoredifferent/static/media/portrait_2020.a2dece7e.jpg",
-    "static/media/weekly.f9492696.md": "/farmoredifferent/static/media/weekly.f9492696.md"
+    "static/css/main.8c8b27cf.chunk.css.map": "/farmoredifferent/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.fe3e3785.chunk.js.LICENSE.txt": "/farmoredifferent/static/js/2.fe3e3785.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/farmoredifferent/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.61fb7ada.js",
-    "static/js/2.e6c1d514.chunk.js",
-    "static/css/main.ba2aa709.chunk.css",
-    "static/js/main.37d7c2e2.chunk.js"
+    "static/js/runtime-main.e7943fe1.js",
+    "static/js/2.fe3e3785.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.dd2adc10.chunk.js"
   ]
 }
