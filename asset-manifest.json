@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/farmoredifferent/static/css/main.ba2aa709.chunk.css",
-    "main.js": "/farmoredifferent/static/js/main.1fe559ac.chunk.js",
-    "main.js.map": "/farmoredifferent/static/js/main.1fe559ac.chunk.js.map",
-    "runtime-main.js": "/farmoredifferent/static/js/runtime-main.806658b7.js",
-    "runtime-main.js.map": "/farmoredifferent/static/js/runtime-main.806658b7.js.map",
-    "static/js/2.4362c3d9.chunk.js": "/farmoredifferent/static/js/2.4362c3d9.chunk.js",
-    "static/js/2.4362c3d9.chunk.js.map": "/farmoredifferent/static/js/2.4362c3d9.chunk.js.map",
-    "static/js/3.d2fe9e39.chunk.js": "/farmoredifferent/static/js/3.d2fe9e39.chunk.js",
-    "static/js/3.d2fe9e39.chunk.js.map": "/farmoredifferent/static/js/3.d2fe9e39.chunk.js.map",
+    "main.css": "/farmoredifferent/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/farmoredifferent/static/js/main.6cf8efb9.chunk.js",
+    "main.js.map": "/farmoredifferent/static/js/main.6cf8efb9.chunk.js.map",
+    "runtime-main.js": "/farmoredifferent/static/js/runtime-main.d1407a04.js",
+    "runtime-main.js.map": "/farmoredifferent/static/js/runtime-main.d1407a04.js.map",
+    "static/js/2.c70298e3.chunk.js": "/farmoredifferent/static/js/2.c70298e3.chunk.js",
+    "static/js/2.c70298e3.chunk.js.map": "/farmoredifferent/static/js/2.c70298e3.chunk.js.map",
+    "static/js/3.e63b3f2c.chunk.js": "/farmoredifferent/static/js/3.e63b3f2c.chunk.js",
+    "static/js/3.e63b3f2c.chunk.js.map": "/farmoredifferent/static/js/3.e63b3f2c.chunk.js.map",
     "index.html": "/farmoredifferent/index.html",
-    "static/css/main.ba2aa709.chunk.css.map": "/farmoredifferent/static/css/main.ba2aa709.chunk.css.map",
-    "static/js/2.4362c3d9.chunk.js.LICENSE.txt": "/farmoredifferent/static/js/2.4362c3d9.chunk.js.LICENSE.txt",
-    "static/media/weekly.f9492696.md": "/farmoredifferent/static/media/weekly.f9492696.md"
+    "static/css/main.8c8b27cf.chunk.css.map": "/farmoredifferent/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.c70298e3.chunk.js.LICENSE.txt": "/farmoredifferent/static/js/2.c70298e3.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/farmoredifferent/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.806658b7.js",
-    "static/js/2.4362c3d9.chunk.js",
-    "static/css/main.ba2aa709.chunk.css",
-    "static/js/main.1fe559ac.chunk.js"
+    "static/js/runtime-main.d1407a04.js",
+    "static/js/2.c70298e3.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.6cf8efb9.chunk.js"
   ]
 }
