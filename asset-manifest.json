@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/farmoredifferent/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/farmoredifferent/static/js/main.22ed7c70.chunk.js",
-    "main.js.map": "/farmoredifferent/static/js/main.22ed7c70.chunk.js.map",
+    "main.js": "/farmoredifferent/static/js/main.e2648422.chunk.js",
+    "main.js.map": "/farmoredifferent/static/js/main.e2648422.chunk.js.map",
     "runtime-main.js": "/farmoredifferent/static/js/runtime-main.7b125351.js",
     "runtime-main.js.map": "/farmoredifferent/static/js/runtime-main.7b125351.js.map",
     "static/js/2.3cd14609.chunk.js": "/farmoredifferent/static/js/2.3cd14609.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.7b125351.js",
     "static/js/2.3cd14609.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.22ed7c70.chunk.js"
+    "static/js/main.e2648422.chunk.js"
   ]
 }
